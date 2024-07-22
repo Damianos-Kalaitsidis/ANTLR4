@@ -1,1 +1,0 @@
-antlr4 grammar_v3_2.g4 && javac grammar_v3_2*.java && grun grammar_v3_2 prog 
